@@ -1,0 +1,18 @@
+Server started
+Server started
+
+Server is running
+Nik_name присоединился
+Nik_name >>> Привет
+Nik_name >>> цкпейуцкп
+Nik_name >>> еглкнглед
+Nik_name >>> неоено ег г54  5г 55г
+Nik_name >>>  56г756г 5
+Nik_name >>>  5гу4 5 56г 5г 
+Nik_name >>> пока
+Nik_name покинул чат
+Server stopped
+Nik_name присоединился
+Nik_name >>> 
+Nik_name покинул чат
+Server stopped
