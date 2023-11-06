@@ -7,3 +7,5 @@
 [Обобщенное программирование](https://github.com/MikhailAkulov/Java_Development_Kit/tree/main/src/main/java/Example_3)
 
 [Коллекции](https://github.com/MikhailAkulov/Java_Development_Kit/tree/main/src/main/java/Example_4)
+
+[Многопоточность](https://github.com/MikhailAkulov/Java_Development_Kit/tree/main/src/main/java/Example_5)
